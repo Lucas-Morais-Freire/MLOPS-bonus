@@ -42,4 +42,4 @@ And a set that is not well-separable:
 Same set with more noise:
 ![results](results/Moons-BCEWithLogitsLoss-0.50.png)
 
-Video link explaining the experiment [here](google.com)
+Video link explaining the experiment [here](https://www.loom.com/share/ff81b93189144b8fb041c4adf6b0b3b5?sid=376d6723-491c-4648-a7bc-26b17f7bc72d)
